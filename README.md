@@ -13,7 +13,7 @@ This repository contains my digital portfolio, submitted as part of the PRP370-1
 ## 📄 Repository Contents
 
 ### 1. CV
-- 📝 [View CV Markdown](./cv.md) — Raw markdown source code of my CV
+- 📝 [View CV Markdown](./cv-markdown.md) — Raw markdown source code of my CV
 - 🌐 [View CV Website](./cv.html) — Styled HTML version of my CV
 
 ### 2. [`mock-interview.md`](./mock-interview.md) — Mock Interview Video
