@@ -1,24 +1,23 @@
 # 📁 Digital Portfolio – Madavha Livhuwani
 
-**PRP371S | CPUT ICT Networking | June 2026**
+**PRP370-1-2S | CPUT ICT Networking | June 2026**
 
 ---
 
 ## 👋 Welcome
 
-This repository contains my digital portfolio, submitted as part of the PRP371S Final Summative Assessment. It showcases my academic progress, technical skills, and professional readiness as an ICT Networking student at the Cape Peninsula University of Technology (CPUT).
+This repository contains my digital portfolio, submitted as part of the PRP370-1-2S Final Summative Assessment. It showcases my academic progress, technical skills, and professional readiness as an ICT Networking student at the Cape Peninsula University of Technology (CPUT).
 
 ---
 
 ## 📄 Repository Contents
 
-### 1. [`cv.md`](./cv.md) — Curriculum Vitae
-My full CV coded in Markdown. It includes my objective, education, technical skills, lab projects, and cybersecurity competition experience.
-### [📄 View CV](./cv.html)
-
+### 1. CV
+- 📝 [View CV Markdown](./cv.md) — Raw markdown source code of my CV
+- 🌐 [View CV Website](./cv.html) — Styled HTML version of my CV
 
 ### 2. [`mock-interview.md`](./mock-interview.md) — Mock Interview Video
-Contains the embedded link to my mock interview video.
+Contains the embedded link to my mock Junior Network Engineer interview video, along with project reflections for each artefact in my portfolio.
 
 ### 3. [`reflections.md`](./reflections.md) — STAR Method Reflections
 Three structured reflections using the STAR method (Situation, Task, Action, Result) covering:
