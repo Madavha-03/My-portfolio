@@ -14,6 +14,8 @@ This repository contains my digital portfolio, submitted as part of the PRP371S 
 
 ### 1. [`cv.md`](./cv.md) — Curriculum Vitae
 My full CV coded in Markdown. It includes my objective, education, technical skills, lab projects, and cybersecurity competition experience.
+### [📄 View CV](./cv.html)
+
 
 ### 2. [`mock-interview.md`](./mock-interview.md) — Mock Interview Video
 Contains the embedded link to my mock interview video.
