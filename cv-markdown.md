@@ -45,7 +45,6 @@ A motivated and detail-oriented ICT Networking student with a strong foundation 
 ### 🔒 Home Lab Network Segmentation & Security Project | Personal Project *(Ongoing)*
 
 - Built a physical/virtual home lab to create an isolated network environment
-- Configured pfSense firewall to create separate networks for IoT devices, trusted devices, and guest Wi-Fi network
 - Implemented firewall rules and VPN server for secure remote access
 
 ---
