@@ -2,8 +2,7 @@
 
 ## ▶️ Watch Mock Interview
 
-[![Mock Interview](https://img.shields.io/badge/▶%20Watch%20Mock%20Interview-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1BhKwp7FRMs?si=9DIwy-hESDxAqOwp)
-
+[![Mock Interview]
 ---
 
 ## 🌐 Portfolio
