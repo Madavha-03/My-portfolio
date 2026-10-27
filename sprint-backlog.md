@@ -8,7 +8,7 @@ title: Sprint Backlog
 
 # Sprint Backlog
 
-*CareerCraft | Sprints 1 to 14*
+*CareerCraft · Sprints 1 to 14*
 
 The sprint backlog for each of our 14 sprints: the goal, tasks selected with owners, acceptance criteria, what was finished or still in progress, and the sprint walkthrough.
 

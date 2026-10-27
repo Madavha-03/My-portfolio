@@ -8,7 +8,7 @@ title: Agile Logbook
 
 # Agile Logbook
 
-*CareerCraft | 1 June to 30 September 2026*
+*CareerCraft · 1 June to 30 September 2026*
 
 Our logbook records stand-up entries for each day: what was completed since the last stand-up, what was planned next, and impediments. The full original is available as a [Word document](evidence/CareerCraft_logbook.docx).
 

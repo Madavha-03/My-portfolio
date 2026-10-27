@@ -8,7 +8,7 @@ title: Agile Project Portfolio
 
 # Agile Project Portfolio
 
-*PRP370-1-2S | CPUT ICT Networking | 2026*
+*PRP370-1-2S · CPUT ICT Networking · 2026*
 
 This portfolio presents my Agile project evidence for **CareerCraft**, our Entrepreneurial WIL project: an AI-assisted career platform for South African students and graduates. The team (Lwandile Mangali, Sello Makhunyane, Lerato Motsweni and me, Livhuwani Madavha) worked from 1 June to 30 September 2026 in 4 initiation weeks followed by 14 weekly sprints. My role was UX/UI Designer and Front-end Developer.
 

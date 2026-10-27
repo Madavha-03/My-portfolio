@@ -8,7 +8,7 @@ title: Product Backlog
 
 # Product Backlog
 
-*CareerCraft | Items in delivery order*
+*CareerCraft · Items in delivery order*
 
 The product backlog lists every story the team worked on, in the order they were pulled into the plan: discovery and validation first, then the business case and pitch, then design, then the working product.
 

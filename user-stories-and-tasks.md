@@ -8,7 +8,7 @@ title: User Stories and Tasks
 
 # User Stories and Tasks
 
-*CareerCraft | 1 June to 30 September 2026*
+*CareerCraft · 1 June to 30 September 2026*
 
 Each user story below was broken into owned tasks and testable acceptance criteria on our taskboard. Task owners are shown in brackets.
 
