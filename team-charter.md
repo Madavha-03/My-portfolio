@@ -10,7 +10,7 @@ title: Agile Team Charter
 
 *CareerCraft · Version 1.0 · Approved 4 May 2026*
 
-The full signed charter is available as a PDF: [CareerCraft_Agile_Team_Charter.pdf](evidence/CareerCraft_Agile_Team_Charter.pdf). Key content is summarised below. Version 1.0 was approved by all four members on 4 May 2026.
+The full signed charter is available as a PDF: [CareerCraft_Agile_Team_Charter.pdf](CareerCraft_Agile_Team_Charter.pdf). Key content is summarised below. Version 1.0 was approved by all four members on 4 May 2026.
 
 ## Evidence
 
