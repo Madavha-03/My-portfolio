@@ -28,5 +28,5 @@ Of 18 periods, 14 carry the "Reconstructed" label; the rest are marked "Document
 
 ## Source files
 
-- [CareerCraft Agile Team Charter (PDF)](evidence/CareerCraft_Agile_Team_Charter.pdf)
-- [CareerCraft logbook (Word document)](evidence/CareerCraft_logbook.docx)
+- [CareerCraft Agile Team Charter (PDF)](CareerCraft_Agile_Team_Charter.pdf)
+- [CareerCraft logbook (Word document)](CareerCraft_logbook.docx)
