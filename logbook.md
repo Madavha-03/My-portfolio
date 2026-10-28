@@ -10,7 +10,7 @@ title: Agile Logbook
 
 *CareerCraft · 1 June to 30 September 2026*
 
-Our logbook records stand-up entries for each day: what was completed since the last stand-up, what was planned next, and impediments. The full original is available as a [Word document](evidence/CareerCraft_logbook.docx).
+Our logbook records stand-up entries for each day: what was completed since the last stand-up, what was planned next, and impediments. The full original is available as a [Word document](CareerCraft_logbook.docx).
 
 > **Evidence status.** Periods marked **"Reconstructed – team confirmation required"** were written up after the fact from project evidence and are not yet confirmed by the whole team. Where an evidence field says "To verify", the supporting commit, design version or test record still needs to be linked. These labels are kept so the record stays accurate.
 
