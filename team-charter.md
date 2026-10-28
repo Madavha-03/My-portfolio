@@ -93,8 +93,8 @@ Approved by Lwandile Mangali, Sello Makhunyane, Livhuwani Madavha and Lerato Mot
 
 ## Reflection
 
-*[DRAFT: edit in your own words]* The charter turned a project idea into a working contract. It told each of us what we owned, how we would communicate and what "done" meant before any building started. My role as UX/UI Designer and Front-end Developer meant I owned the user experience and the responsive interface, and the charter made me co-owner of the layout-choice goal and the end-to-end journey validation.
+The charter turned a project idea into a working contract. It told each of us what we owned, how we would communicate, and what "done" meant before any building started. My role as UX/UI Designer and Front-end Developer meant I owned the user experience and the responsive interface, and the charter made me co-owner of the layout-choice goal and the end-to-end journey validation.
 
 The charter proved useful because it was tested by what happened later. Our first logbook retrospective noted that the initial concept was too broad, and the charter's scope boundaries and deferred list (native apps, recruiter marketplace, institution analytics) gave us a basis for cutting scope. Its risk table also predicted problems we later hit, such as AI provider failures and credential exposure, and the Definition of Done pushed us to test error paths and mobile widths rather than only the happy path.
 
-*[Add one honest point about what you would change, for example: the charter should have set sprint dates and estimates more precisely, or been revisited after the first retrospective, as it allows.]*
+**What I would change:** I would revisit the charter after the first retrospective. The SMART goals were written in early May as if the project were fixed, but the backlog changed shape over fourteen sprints, and the charter's goal targets still pointed at "Sprint 1", "Sprint 2" and "Sprint 3" long after the sprint numbering had outgrown them. Revisiting it after the first retrospective — with revised sprint dates, estimates and goal targets — would have kept the charter a living document rather than a signed artefact we referenced less over time.
