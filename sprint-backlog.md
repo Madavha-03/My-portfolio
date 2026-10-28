@@ -594,8 +594,18 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ## Reflection
 
-*[DRAFT: edit in your own words]* The sprint backlog made each week concrete. Because every task had an owner and every sprint had acceptance criteria, I could see exactly where my work fitted: designing the editor workspace in Sprint 10, then adding saving, saved, loading and failure states in Sprint 11, and improving error messages and retry paths in Sprint 13.
+The sprint backlog made each week concrete. Because every task had an owner and every sprint had acceptance criteria, I could always see where my work fitted: wireframing the dashboard in Sprint 5, refining the visual sequence in Sprint 3, and then designing the editor workspace and live-preview states in Sprint 10. What I valued most was that the backlog was honest about unfinished work — the "In progress at sprint end" sections showed that delivery is rarely clean, and that carrying work forward is a normal part of sprinting rather than a failure.
 
-The walkthrough questions produced useful lessons that carried forward. In Sprint 10 we noted that templates should render the same structured data rather than store separate copies of a CV. In Sprint 13 we noted that configuration should fail fast with a precise stage and that secrets and user content must never appear in public logs. Recurring blockers such as limited user evidence, overlapping academic commitments and unstable connectivity also showed me that sprint plans have to allow for real constraints.
+The walkthrough questions produced lessons that carried forward across sprints:
 
-*[Add one thing you would change, for example: size sprint scope to capacity, or keep the "not on the board" question honest by adding unplanned work to the taskboard.]*
+- **Sprint 10** — templates should render the same structured data rather than store separate copies of a CV, which protected us from a whole class of consistency bugs.
+- **Sprint 11** — persistence acceptance criteria must include retrieval and ownership, not just a successful insert.
+- **Sprint 13** — configuration should fail fast with a precise stage, and secrets and user content must never appear in public logs.
+
+Each of these started as a blocker and became a rule we applied in later sprints.
+
+Recurring blockers also taught me that sprint plans have to allow for real constraints. Limited user evidence at the start, overlapping academic commitments, unstable connectivity and a design capability gap all affected what we could finish. The team's response — starting evidence gathering earlier, using campus IT facilities, and seeking design guidance early — showed me that acknowledging constraints in the plan is more useful than pretending they don't exist.
+
+### One thing I would change
+
+I would size sprint scope more deliberately to the team's actual capacity. Several sprints ended with two or three tasks still in progress, which suggests we consistently planned optimistically. I would also keep the *"is anyone working on anything that is not on the board?"* question honest by requiring unplanned work to be added to the taskboard **before** it consumes sprint capacity, rather than after — that single habit would make the backlog a truer record of where time actually went.
