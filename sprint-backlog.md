@@ -20,8 +20,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 1](trello-sprint-01.png)
 
-*Trello sprint card for Sprint 1. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Establish a shared understanding of the student career-readiness problem and define the first testable CareerCraft product direction.
 
 **Selected tasks**
@@ -62,8 +60,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *7–10 July 2026 · Evidence status: Reconstructed - team confirmation required*
 
 ![Trello card for Sprint 2](trello-sprint-02.png)
-
-*Trello sprint card for Sprint 2. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Convert the validated concept into a defensible business and marketing proposition and prepare an investor-style presentation.
 
@@ -106,8 +102,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *14–17 July 2026 · Evidence status: Documented in the supplied logbook*
 
 ![Trello card for Sprint 3](trello-sprint-03.png)
-
-*Trello sprint card for Sprint 3. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Finalise and deliver the investor-style pitch, then strengthen Deliverable 2 with verified market and competitor evidence.
 
@@ -152,8 +146,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 4](trello-sprint-04.png)
 
-*Trello sprint card for Sprint 4. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Translate lecturer feedback into a prioritised, owned and implementation-ready Product Backlog.
 
 **Selected tasks**
@@ -195,8 +187,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *28–31 July 2026 · Evidence status: Documented in the supplied logbook*
 
 ![Trello card for Sprint 5](trello-sprint-05.png)
-
-*Trello sprint card for Sprint 5. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Design the core CareerCraft experience in Figma, obtain lecturer feedback and revise the interface toward a brighter, accessible visual system.
 
@@ -241,8 +231,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *4–7 August 2026 · Evidence status: Documented in the supplied logbook*
 
 ![Trello card for Sprint 6](trello-sprint-06.png)
-
-*Trello sprint card for Sprint 6. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Demonstrate the website prototype and implement the lecturer feedback on branding, pricing access, visual tone and functional links.
 
@@ -289,8 +277,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 7](trello-sprint-07.png)
 
-*Trello sprint card for Sprint 7. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Turn the approved visual direction into reusable implementation rules and close the remaining mobile and accessibility gaps.
 
 **Selected tasks**
@@ -331,8 +317,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *18–21 August 2026 · Evidence status: Reconstructed - team confirmation required*
 
 ![Trello card for Sprint 8](trello-sprint-08.png)
-
-*Trello sprint card for Sprint 8. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Create the multi-page front-end foundation and make the core CareerCraft journeys reachable through consistent navigation.
 
@@ -375,8 +359,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *25–28 August 2026 · Evidence status: Reconstructed - team confirmation required*
 
 ![Trello card for Sprint 9](trello-sprint-09.png)
-
-*Trello sprint card for Sprint 9. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Enable account creation and establish the user-owned career profile that will feed CVs, portfolios and AI tools.
 
@@ -422,8 +404,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 10](trello-sprint-10.png)
 
-*Trello sprint card for Sprint 10. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Allow users to create or update a CV using modular sections and select an appropriate layout.
 
 **Selected tasks**
@@ -467,8 +447,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *7–11 September 2026 · Evidence status: Reconstructed - team confirmation required*
 
 ![Trello card for Sprint 11](trello-sprint-11.png)
-
-*Trello sprint card for Sprint 11. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Connect the CV editor to Supabase so authenticated users can save, retrieve and continue editing their documents.
 
@@ -514,8 +492,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 12](trello-sprint-12.png)
 
-*Trello sprint card for Sprint 12. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Deliver usable LinkedIn Profile Makeover and Post Generator journeys while stabilising serverless deployment and environment configuration.
 
 **Selected tasks**
@@ -560,8 +536,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 
 ![Trello card for Sprint 13](trello-sprint-13.png)
 
-*Trello sprint card for Sprint 13. The card was added to the board on 28 October 2026 from the sprint logbook.*
-
 **Sprint goal:** Improve AI reliability by standardising the provider adapter, validating configuration and making failures diagnosable without exposing secrets.
 
 **Selected tasks**
@@ -605,8 +579,6 @@ The sprint backlog for each of our 14 sprints: the goal, tasks selected with own
 *28–30 September 2026 · Evidence status: Reconstructed from September implementation evidence - team confirmation required*
 
 ![Trello card for Sprint 14](trello-sprint-14.png)
-
-*Trello sprint card for Sprint 14. The card was added to the board on 28 October 2026 from the sprint logbook.*
 
 **Sprint goal:** Connect plan access to product tools, allow GitHub portfolio projects to appear in the selected CV and prepare the package-payment journey for controlled testing.
 
