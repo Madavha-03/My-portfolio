@@ -104,6 +104,8 @@ The table lists every card on our Trello PRODUCT BACKLOG list (50 cards), sorted
 | 48 | Remote Project Retrospective (Miro) | No due date | Documentation, Low Priority | 4/4 |  |
 | 49 | Partnerships: Local Campus Outreach | No due date | Management, Medium Priority, Ops | 4/4 |  |
 | 50 | Final Project Report & Velocity Review | Planned: November 2026 | Documentation, Low Priority, Agile | 1/4 | yes |
+
+
 **Reading the dates.** The board was created on 3 May 2026 and all backlog cards were created that day. Team members were assigned to cards on 23 and 30 July 2026. Most checklist items and the "complete" status were recorded in Trello on 27 October 2026, so the due dates show the planned schedule and the completion dates show when the status was recorded. Seven other cards have no due date. The final card, Final Project Report & Velocity Review, is not complete yet: one of its four tasks is done and the rest are scheduled for around November 2026.
 
 ### Trello card screenshots (due-date order)
