@@ -50,60 +50,60 @@ The product backlog lists every story the team worked on, in the order they were
 
 ### Product backlog in due-date order
 
-The table lists every card on our Trello PRODUCT BACKLOG list (50 cards), sorted by due date, with the details taken from an export of the board. "Card created" is the date the card was created on the board, "Marked complete" is the date it was ticked complete, and "Members" are the team members assigned to it.
+The table lists every card on our Trello PRODUCT BACKLOG list (50 cards), sorted by due date, with the details taken from an export of the board. "Card created" is the date the card was created on the board, "Marked complete" is the date it was ticked complete.
 
-| # | Card | Due | Labels | Members | Checklist | Card created | Marked complete | Screenshot |
-|---|---|---|---|---|---|---|---|---|
-| 1 | Digital Portal Architecture & ATS Rules | 20 May 2026 | Design, High Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 2 | Research: ATS-Friendly CV Standards 2025 | 3 Jun 2026 | Research | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 3 | ATS Compatibility Standards Investigation | 4 Jun 2026 | Research, Design | Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 4 | Research: Local Graduate Experience Gaps | 9 Jun 2026 | Research, Medium Priority | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 5 | Curriculum: Real World Challenges & Job Search | 10 Jun 2026 | Content, Medium Priority, Documentation | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 6 | Define Graduate Success Metrics | 11 Jun 2026 | Documentation, Medium Priority | Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 7 | Digital Portal Architecture & Security Foundation | 16 Jun 2026 | Backend, High Priority | Lerato, Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 8 | Research: AI API Cost & Scalability | 16 Jun 2026 | Research, Low Priority, Tech | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 9 | Agile Team Charter & DoD/DoR Setup | 18 Jun 2026 | Documentation, High Priority | Lerato, Livhuwani, Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 10 | Collaboration Tools Setup | 18 Jun 2026 | Documentation, Low Priority | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 11 | Establish Agile Team Charter | 18 Jun 2026 | Documentation, High Priority | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 12 | Agile Team Charter & Working Agreements | 18 Jun 2026 | Documentation | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 13 | Daily Stand-up & Board Management Rituals | 19 Jun 2026 | Documentation, Medium Priority | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 14 | Formalize Definition of Done (DoD) | 19 Jun 2026 | Documentation, High Priority | Lerato | 5/5 | 3 May 2026 | 27 Oct 2026 | yes |
-| 15 | Formalize Definition of Ready (DoR) | 19 Jun 2026 | Documentation, Medium Priority | Lerato | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 16 | Setup Team Rituals & Schedule | 19 Jun 2026 | Documentation, Medium Priority | Livhuwani, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 17 | Definition of Done (DoD) Standards | 19 Jun 2026 | QA | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 18 | Professional CV Template Design (Top 5 Sectors) | 30 Jun 2026 | Design, Frontend | Livhuwani, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 19 | Pnet Job Market Trends Analysis | 16 Jul 2026 | Research, High Priority | Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 20 | Pnet Market Trends Investigation | 16 Jul 2026 | Research, High Priority | Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 21 | Research: 2026 South African Job Market Trends | 16 Jul 2026 | Research | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 22 | Backlog Grooming & Definition of Ready Review | 22 Jul 2026 | Documentation, Medium Priority | Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 23 | Final PO Acceptance & Launch Readiness | 30 Jul 2026 | Documentation, High Priority |  | 3/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 24 | Pricing Strategy & ZAR Branding Approval | 7 Aug 2026 | Documentation, Medium Priority, Management | Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 25 | Portal: Youth Catalyst Lab Web Build | 18 Aug 2026 | Frontend, Tech | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 26 | Ops: Automated Student Intake System | 26 Aug 2026 | Documentation, Medium Priority, Ops | Lerato, Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 27 | CV Template Design: Design & Arts | 3 Sep 2026 | Design, Medium Priority | Lerato, Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 28 | Design: 10+ ATS-Friendly CV Templates | 3 Sep 2026 | Design | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 29 | Logic: AI Prompting Handbook Requirements | 11 Sep 2026 | Backend, High Priority, AI | Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 30 | AI Prompt Engineering for Impact Statements | 16 Sep 2026 | Backend, Design |  | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 31 | AI Prompt Engineering: Mentor-Style | 16 Sep 2026 | Backend, High Priority | Lerato, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 32 | Tech: Bug Fixing & Speed Optimization | 22 Sep 2026 | Frontend, High Priority, Tech | Lerato, Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 33 | Integration: AI Prompting Engine | 22 Sep 2026 | Backend, High Priority, AI | Lerato, Livhuwani, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 34 | AI Prompting Handbook Review | 24 Sep 2026 | Documentation, Medium Priority | Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 35 | AI Prompting & CV Guide Review | 25 Sep 2026 | Documentation, Medium Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 36 | South African Payment Gateway Integration | 28 Sep 2026 | Backend, High Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 37 | Portal Pricing Strategy & Final ZAR Finalization | 29 Sep 2026 | Documentation, High Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 38 | Pricing Strategy & ZAR Finalization | 29 Sep 2026 | Documentation, Medium Priority | Sello | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 39 | South African Payment Gateway Integration | 30 Sep 2026 | Backend, High Priority | Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 40 | Beta Testing: 20 Student Pilot Program | 6 Oct 2026 | QA, High Priority, Ops | Livhuwani, Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 41 | Content: 5 Video Tutorials for Portal | 7 Oct 2026 | Design, Medium Priority, Content | Livhuwani, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 42 | Marketing: Social Media Launch Campaign | 8 Oct 2026 | Design, Medium Priority, Marketing | Lerato, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
-| 43 | Beta-Testing Feedback Collection | No due date | Research, Medium Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 44 | Beta-Testing Workshops with Students | No due date | Design, Medium Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 45 | Final Product Owner Acceptance | No due date | Documentation, High Priority | Livhuwani | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 46 | Final System QA & Technical Fixes | No due date | Backend, High Priority | Lerato, Livhuwani, Lwandile, Sello | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 47 | Project Remote Retrospective | No due date | Documentation, Low Priority | Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 48 | Remote Project Retrospective (Miro) | No due date | Documentation, Low Priority |  | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 49 | Partnerships: Local Campus Outreach | No due date | Management, Medium Priority, Ops | Livhuwani, Lwandile | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
-| 50 | Final Project Report & Velocity Review | Planned: November 2026 | Documentation, Low Priority, Agile | Livhuwani | 1/4 | 3 May 2026 | Not complete (1 of 4 tasks done) | yes |
+| # | Card | Due | Labels | Checklist | Card created | Marked complete | Screenshot |
+|---|---|---|---|---|---|---|---|
+| 1 | Digital Portal Architecture & ATS Rules | 20 May 2026 | Design, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 2 | Research: ATS-Friendly CV Standards 2025 | 3 Jun 2026 | Research | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 3 | ATS Compatibility Standards Investigation | 4 Jun 2026 | Research, Design | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 4 | Research: Local Graduate Experience Gaps | 9 Jun 2026 | Research, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 5 | Curriculum: Real World Challenges & Job Search | 10 Jun 2026 | Content, Medium Priority, Documentation | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 6 | Define Graduate Success Metrics | 11 Jun 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 7 | Digital Portal Architecture & Security Foundation | 16 Jun 2026 | Backend, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 8 | Research: AI API Cost & Scalability | 16 Jun 2026 | Research, Low Priority, Tech | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 9 | Agile Team Charter & DoD/DoR Setup | 18 Jun 2026 | Documentation, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 10 | Collaboration Tools Setup | 18 Jun 2026 | Documentation, Low Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 11 | Establish Agile Team Charter | 18 Jun 2026 | Documentation, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 12 | Agile Team Charter & Working Agreements | 18 Jun 2026 | Documentation | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 13 | Daily Stand-up & Board Management Rituals | 19 Jun 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 14 | Formalize Definition of Done (DoD) | 19 Jun 2026 | Documentation, High Priority | 5/5 | 3 May 2026 | 27 Oct 2026 | yes |
+| 15 | Formalize Definition of Ready (DoR) | 19 Jun 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 16 | Setup Team Rituals & Schedule | 19 Jun 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 17 | Definition of Done (DoD) Standards | 19 Jun 2026 | QA | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 18 | Professional CV Template Design (Top 5 Sectors) | 30 Jun 2026 | Design, Frontend | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 19 | Pnet Job Market Trends Analysis | 16 Jul 2026 | Research, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 20 | Pnet Market Trends Investigation | 16 Jul 2026 | Research, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 21 | Research: 2026 South African Job Market Trends | 16 Jul 2026 | Research | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 22 | Backlog Grooming & Definition of Ready Review | 22 Jul 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 23 | Final PO Acceptance & Launch Readiness | 30 Jul 2026 | Documentation, High Priority | 3/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 24 | Pricing Strategy & ZAR Branding Approval | 7 Aug 2026 | Documentation, Medium Priority, Management | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 25 | Portal: Youth Catalyst Lab Web Build | 18 Aug 2026 | Frontend, Tech | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 26 | Ops: Automated Student Intake System | 26 Aug 2026 | Documentation, Medium Priority, Ops | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 27 | CV Template Design: Design & Arts | 3 Sep 2026 | Design, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 28 | Design: 10+ ATS-Friendly CV Templates | 3 Sep 2026 | Design | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 29 | Logic: AI Prompting Handbook Requirements | 11 Sep 2026 | Backend, High Priority, AI | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 30 | AI Prompt Engineering for Impact Statements | 16 Sep 2026 | Backend, Design | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 31 | AI Prompt Engineering: Mentor-Style | 16 Sep 2026 | Backend, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 32 | Tech: Bug Fixing & Speed Optimization | 22 Sep 2026 | Frontend, High Priority, Tech | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 33 | Integration: AI Prompting Engine | 22 Sep 2026 | Backend, High Priority, AI | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 34 | AI Prompting Handbook Review | 24 Sep 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 35 | AI Prompting & CV Guide Review | 25 Sep 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 36 | South African Payment Gateway Integration | 28 Sep 2026 | Backend, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 37 | Portal Pricing Strategy & Final ZAR Finalization | 29 Sep 2026 | Documentation, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 38 | Pricing Strategy & ZAR Finalization | 29 Sep 2026 | Documentation, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 39 | South African Payment Gateway Integration | 30 Sep 2026 | Backend, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 40 | Beta Testing: 20 Student Pilot Program | 6 Oct 2026 | QA, High Priority, Ops | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 41 | Content: 5 Video Tutorials for Portal | 7 Oct 2026 | Design, Medium Priority, Content | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 42 | Marketing: Social Media Launch Campaign | 8 Oct 2026 | Design, Medium Priority, Marketing | 4/4 | 3 May 2026 | 27 Oct 2026 | yes |
+| 43 | Beta-Testing Feedback Collection | No due date | Research, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 44 | Beta-Testing Workshops with Students | No due date | Design, Medium Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 45 | Final Product Owner Acceptance | No due date | Documentation, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 46 | Final System QA & Technical Fixes | No due date | Backend, High Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 47 | Project Remote Retrospective | No due date | Documentation, Low Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 48 | Remote Project Retrospective (Miro) | No due date | Documentation, Low Priority | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 49 | Partnerships: Local Campus Outreach | No due date | Management, Medium Priority, Ops | 4/4 | 3 May 2026 | 27 Oct 2026 |  |
+| 50 | Final Project Report & Velocity Review | Planned: November 2026 | Documentation, Low Priority, Agile | 1/4 | 3 May 2026 | Not complete (1 of 4 tasks done) | yes |
 
 **Reading the dates.** The board was created on 3 May 2026 and all backlog cards were created that day. Team members were assigned to cards on 23 and 30 July 2026. Most checklist items and the "complete" status were recorded in Trello on 27 October 2026, so the due dates show the planned schedule and the completion dates show when the status was recorded. Seven other cards have no due date. The final card, Final Project Report & Velocity Review, is not complete yet: one of its four tasks is done and the rest are scheduled for around November 2026.
 
