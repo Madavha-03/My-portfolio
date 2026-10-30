@@ -42,8 +42,6 @@ The product backlog lists every story the team worked on, in the order they were
 | Item | Status | Source |
 |---|---|---|
 | Final Project Report & Velocity Review (3 of 4 tasks open) | Scheduled for around November 2026 | Trello product backlog |
-| Map selected projects into the resume preview and saved CV data | In progress at the end of Sprint 14 | Sprint 14 taskboard |
-| Define Free, Starter and Pro entitlements and visible lock states | In progress at the end of Sprint 14 | Sprint 14 taskboard |
 | Native Android and iOS applications | Deferred beyond the project | Team charter |
 | Guaranteed placement or automated job applications | Deferred beyond the project | Team charter |
 | Full recruiter marketplace | Deferred beyond the project | Team charter |
