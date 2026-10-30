@@ -20,12 +20,6 @@ This portfolio presents my Agile project evidence for **CareerCraft**, our Entre
 - [Sprint Backlog](sprint-backlog.html): sprint goals, selected tasks, outcomes and retrospectives
 - [Agile Logbook](logbook.html): stand-up entries across all weeks and sprints
 
-## A note on evidence
-
-> **Evidence status.** Periods marked **"Reconstructed – team confirmation required"** were written up after the fact from project evidence and are not yet confirmed by the whole team. Where an evidence field says "To verify", the supporting commit, design version or test record still needs to be linked. These labels are kept so the record stays accurate.
-
-Of 18 periods, 14 carry the "Reconstructed" label; the rest are marked "Documented in the supplied logbook".
-
 ## Source files
 
 - [CareerCraft Agile Team Charter (PDF)](CareerCraft_Agile_Team_Charter.pdf)
