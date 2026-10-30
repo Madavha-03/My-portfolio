@@ -258,4 +258,3 @@ The earliest retrospective said the initial concept was too broad, and the backl
 
 **What I would change:** I would add estimates and explicit priority labels such as MoSCoW to each item so the order is justified, not just recorded. Reading the due-date table now, several cards sit together on the same date — three separate research cards all due 16 July, five documentation cards all due 18–19 June — and without estimates or priorities it is hard to tell whether they were genuinely parallel work or simply cards that were created together and dated to the same deadline. Adding an estimate and a priority to each card at refinement would have made the backlog easier to defend and easier to reorder when capacity changed.
 
-*[Add what you would change, for example: add estimates and explicit priority labels such as MoSCoW to each item so the order is justified, not just recorded.]*
