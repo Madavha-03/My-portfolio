@@ -14,6 +14,9 @@ Each user story below was broken into owned tasks and testable acceptance criter
 
 ## Evidence
 
+> **Source document.** The user stories, tasks, owners and acceptance criteria below come from the taskboard sections of our team logbook. Download the original: [CareerCraft_logbook.docx](CareerCraft_logbook.docx). The day-by-day entries for each sprint are also on the [Agile Logbook page](logbook.html), and the Trello cards for the sprints are on the [Sprint Backlog page](sprint-backlog.html).
+
+
 ### PB-01 · Initiation Week 1: Project kickoff and problem discovery
 
 *1–5 June 2026*
@@ -398,8 +401,8 @@ Each user story below was broken into owned tasks and testable acceptance criter
 
 ## Reflection
 
-Writing stories as outcomes with acceptance criteria, rather than as lists of jobs, changed how I worked. A story such as *"allow users to create or update a CV using modular sections and select an appropriate layout"* told me what the editor workspace had to achieve, and criteria like *"at least two layouts are clearly available to Free users"* told me when my design work was finished. Without those criteria I would have kept polishing screens that were already good enough for the sprint.
+*[DRAFT: edit in your own words]* Writing stories as outcomes with acceptance criteria, rather than as lists of jobs, changed how I worked. A story such as "allow users to create or update a CV using modular sections and select an appropriate layout" told me what the editor workspace had to achieve, and criteria like "at least two layouts are clearly available to Free users" told me when my design work was finished.
 
-My tasks moved with the project: journey sketches and visual direction in Sprint 1, pitch visuals and mock-ups in Sprint 2, Figma screens and the bright palette update in Sprints 5 and 6, a mobile audit in Sprint 7, then front-end implementation, the CV editor workspace, save and failure feedback, and error and retry paths in Sprints 8 to 13. Seeing this progression showed me how design decisions become interface behaviour — the palette work in Sprint 6 became the CSS style tokens in Sprint 7, and the editor workspace I designed in Sprint 10 became the saving, saved, loading and failure states I built in Sprint 11.
+My tasks moved with the project: journey sketches and visual direction in Sprint 1, pitch visuals and mock-ups in Sprint 2, Figma screens and the bright palette update in Sprints 5 and 6, a mobile audit in Sprint 7, then front-end implementation, the CV editor workspace, save and failure feedback, and error and retry paths in Sprints 8 to 13. Seeing this progression showed me how design decisions become interface behaviour.
 
-**What I would do differently:** I would write the acceptance criteria with the QA lead before the sprint starts, rather than finalising them during refinement. Several criteria only became fully testable once Lerato and I discussed them, and criteria I had written alone — such as the mobile states in Sprint 7 — were vaguer than the ones we wrote together. Writing them jointly, before the sprint begins, would have caught ambiguity earlier and made my design work easier to test as soon as it was built.
+*[Add one thing you would do differently, for example: write smaller stories, add explicit estimates, or write the acceptance criteria with the QA lead before the sprint starts.]*
