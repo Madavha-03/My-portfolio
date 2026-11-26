@@ -2,7 +2,7 @@
 title: Agile Team Charter
 ---
 
-[Overview](index.html) · [Team Charter](team-charter.html) · [User Stories & Tasks](user-stories-and-tasks.html) · [Product Backlog](product-backlog.html) · [Sprint Backlog](sprint-backlog.html) · [Agile Logbook](logbook.html) · [Main portfolio](../)
+[Overview](index.html) · [Team Charter](team-charter.html) · [User Stories & Tasks](user-stories-and-tasks.html) · [Product Backlog](product-backlog.html) · [Sprint Backlog](sprint-backlog.html) · [Agile Logbook](logbook.html) · [Main portfolio](./)
 
 ---
 
