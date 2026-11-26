@@ -8,56 +8,32 @@
 
 This repository contains my digital portfolio, submitted as part of the PRP370-1-2S assessments. It showcases my academic progress, technical skills, and professional readiness as an ICT Networking student at the Cape Peninsula University of Technology (CPUT).
 
-It has two parts:
-
-- **Part A:** Final Summative Assessment (CV, mock interview, reflections)
-- **Part B:** Agile Project Portfolio (CareerCraft, October 2026 assessment)
+My portfolio has two parts. Choose one below to get started.
 
 ---
 
-## 🧭 Quick Navigation
+## 🧭 Portfolio Parts
 
-| Part | What it contains | Link |
-|---|---|---|
-| **A** | CV, mock interview, STAR reflections | [Jump to Part A](#part-a--final-summative-assessment-june-2026) |
-| **B** | Agile Team Charter, User Stories, Product and Sprint Backlogs, Logbook | [Open the Agile Portfolio](./agile.html) |
+| Part | Assessment | What it contains | Open |
+|---|---|---|---|
+| 🅰️ **A** | Final Summative Assessment (June 2026) | CV, mock interview, STAR reflections | [Open Part A](./part-a.html) |
+| 🅱️ **B** | Agile Project Portfolio – CareerCraft (October 2026) | Agile Team Charter, User Stories, Product and Sprint Backlogs, Logbook | [Open Part B](./agile.html) |
+
+---
+
+## 🅰️ Part A – Final Summative Assessment
+
+My CV (Markdown and website versions), a mock Junior Network Engineer interview video, and three STAR-method reflections on building and publishing this portfolio.
+
+👉 **[Go to Part A](./part-a.html)**
 
 ---
 
 ## 🅱️ Part B – Agile Project Portfolio (CareerCraft)
 
-**PRP370-1-2S Assessment 2 | October 2026**
-
 Evidence and reflections from **CareerCraft**, our Entrepreneurial WIL project: an AI-assisted career platform for South African students. Worked from 1 June to 30 September 2026 in 4 initiation weeks and 14 sprints. My role was UX/UI Designer and Front-end Developer.
 
-👉 **[Start here: Agile Portfolio overview](./agile/index.html)**
-
-| Section | Link |
-|---|---|
-| Agile Team Charter | [team-charter](./agile/team-charter.html) |
-| User Stories and Tasks | [user-stories-and-tasks](./agile/user-stories-and-tasks.html) |
-| Product Backlog | [product-backlog](./agile/product-backlog.html) |
-| Sprint Backlog | [sprint-backlog](./agile/sprint-backlog.html) |
-| Agile Logbook | [logbook](./agile/logbook.html) |
-
-Source files: [Charter (PDF)](./agile/evidence/CareerCraft_Agile_Team_Charter.pdf) · [Logbook (Word)](./agile/evidence/CareerCraft_logbook.docx)
-
----
-
-## 🅰️ Part A – Final Summative Assessment (June 2026)
-
-### 1. CV
-- 📝 [View CV Markdown](./cv-markdown.md) — Raw markdown source code of my CV
-- 🌐 [View CV Website](./cv.html) — Styled HTML version of my CV
-
-### 2. [`mock-interview.md`](./mock-interview.md) — Mock Interview Video
-Contains the embedded link to my mock Junior Network Engineer interview video, along with project reflections for each artefact in my portfolio.
-
-### 3. [`reflections.md`](./reflections.md) — STAR Method Reflections
-Three structured reflections using the STAR method (Situation, Task, Action, Result) covering:
-- Coding my CV in Markdown
-- Recording and embedding my mock interview video
-- Publishing this portfolio using GitHub Pages
+👉 **[Go to Part B](./agile.html)**
 
 ---
 
