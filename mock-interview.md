@@ -8,7 +8,7 @@
 
 ## ▶️ Watch Mock Interview
 
-[![Mock Interview](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Mock Interview](https://img.youtube.com/vi/1BhKwp7FRMs/0.jpg)](https://www.youtube.com/watch?v=1BhKwp7FRMs)
 
 *Click the image to watch the video.*
 
