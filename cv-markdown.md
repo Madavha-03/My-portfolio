@@ -1,3 +1,6 @@
+[Part A Overview](part-a.html) · [CV](cv.html) · [CV Markdown](cv-markdown.md) · [Mock Interview](mock-interview.md) · [STAR Reflections](reflections.md) · [Main portfolio](./)
+
+
 # Madavha Livhuwani
 
 📞 063 052 9188 &nbsp;|&nbsp; 📧 222320788@mycput.ac.za &nbsp;|&nbsp; 📍 Cape Town, South Africa &nbsp;|&nbsp; 🔗 [linkedin.com/in/livhuwani-madavha](https://www.linkedin.com/in/livhuwani-madavha)
