@@ -20,7 +20,7 @@ It has two parts:
 | Part | What it contains | Link |
 |---|---|---|
 | **A** | CV, mock interview, STAR reflections | [Jump to Part A](#part-a--final-summative-assessment-june-2026) |
-| **B** | Agile Team Charter, User Stories, Product and Sprint Backlogs, Logbook | [Open the Agile Portfolio](./agile/index.html) |
+| **B** | Agile Team Charter, User Stories, Product and Sprint Backlogs, Logbook | [Open the Agile Portfolio](./agile.html) |
 
 ---
 
