@@ -1,3 +1,6 @@
+[Part A Overview](part-a.html) · [CV](cv.html) · [CV Markdown](cv-markdown.md) · [Mock Interview](mock-interview.md) · [STAR Reflections](reflections.md) · [Main portfolio](./)
+
+
 # 🪞 Reflections – Madavha Livhuwani
 
 ## 1. 💻 Reflection on Coding in Markdown (CV)
